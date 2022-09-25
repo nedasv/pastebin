@@ -926,6 +926,7 @@ dependencies = [
 name = "rocket-paste"
 version = "0.1.0"
 dependencies = [
+ "rand",
  "rocket",
 ]
 
